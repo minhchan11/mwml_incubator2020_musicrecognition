@@ -3,6 +3,9 @@ MWML_Incubator2020_Music_Recognition
 
 Using deep learning to auto classify music genres
 
+* Project authors: Minh Phuong,Putta Lakshmi,Vedic Partap,Rohit Gupta
+	
+
 Project Organization
 ------------
 
