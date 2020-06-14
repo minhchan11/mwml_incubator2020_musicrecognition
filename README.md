@@ -51,16 +51,16 @@ Using deep learning to auto classify music genres
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 
 
-### Authors
----
+## Authors
+
 - [Minh Phuong](https://github.com/minhchan11)
 - [Rohit Gupta](https://github.com/rohitgr7/)
 - [Putta Lakshmi]()
 - [Vedic Pratap]()
 
 
-### References:
----
+## References
+
 - https://github.com/taprosoft/music-genre-classification
 - https://github.com/ybayle/awesome-deep-learning-music
 - https://github.com/mdeff/fma
